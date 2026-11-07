@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Michel Gustavo 👋
 
 ### 💻 Desenvolvedor Full Stack | Java • JavaScript • Python
 

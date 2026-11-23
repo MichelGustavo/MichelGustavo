@@ -47,4 +47,38 @@ Implantação e manutenção de sistema de gestão em hospitais e postos de saú
 
 - **[GlycoAssist](LINK_DO_REPOSITORIO)** — Assistente com LLM que consulta o histórico de pacientes e o conteúdo extraído de PDFs. *Python, Flask, PostgreSQL, Groq.*
 - **[Domora](LINK_DO_REPOSITORIO)** — E-commerce demonstrativo responsivo com catálogo, busca, filtros, favoritos e sacola. *Vue.js 3, Vite.*
-- **[Sonora](LINK_DO_REPOSITORIO)** — Player
+- **[Sonora](LINK_DO_REPOSITORIO)** — Player de música desktop com leitura recursiva de pastas, organização por metadados e busca. *Python.*
+
+> Alguns projetos são privados. O código do trabalho na prefeitura não é público.
+
+---
+
+## 📚 Cursos concluídos
+
+- Spring Boot Expert: JPA, REST, JWT, OAuth2 com Docker e AWS (Dougllas Sousa)
+- Banco de Dados e Linguagem SQL com PostgreSQL (IA Expert Academy)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichelGustavo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelGustavo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Links
+
+<p>
+  <a href="https://michelsodre-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/michel-sodre-ribeiro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:michel.sodre.g@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
